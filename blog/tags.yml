@@ -1,0 +1,19 @@
+seismology:
+  label: Seismology
+  permalink: /seismology
+  description: Posts related to earthquakes, seismic data, and earth science.
+
+tech:
+  label: Tech
+  permalink: /tech
+  description: Technology, software, tools, and technical topics.
+
+other:
+  label: Other
+  permalink: /other
+  description: Miscellaneous posts that don’t fit other categories.
+
+analysis:
+  label: Analysis
+  permalink: /analysis
+  description: In-depth analysis, insights, and breakdowns.
