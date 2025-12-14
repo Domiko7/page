@@ -16,7 +16,7 @@ const config: Config = {
   //baseUrl: '/',
 
   organizationName: 'Domiko7',
-  projectName: 'domiko-blog',
+  projectName: 'page',
 
   onBrokenLinks: 'throw',
 
