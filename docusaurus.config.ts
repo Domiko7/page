@@ -12,8 +12,8 @@ const config: Config = {
   },
 
   url: 'https://your-docusaurus-site.example.com',
-  baseUrl: '/page/',
-  //baseUrl: '/',
+  //baseUrl: '/page/',
+  baseUrl: '/',
 
   organizationName: 'Domiko7',
   projectName: 'page',
