@@ -8,6 +8,8 @@ tags: [seismology, tech, other, analysis]
 Welcome! 👋  
 I’m **Dominik** (aka **Domiko7** on GitHub), and this blog is where I’ll be sharing what I build, learn, and explore.
 
+<!-- truncate -->
+
 ## 🌍 Seismology
 One of my main interests is **seismology and earthquakes**. I work with real-time seismic data, monitoring tools, and earthquake early-warning concepts.  
 Here, I’ll post things like:
