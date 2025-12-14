@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Domiko page/blog Blog</title>
-        <link>https://your-docusaurus-site.example.com/page/blog</link>
+        <link>https://your-docusaurus-site.example.com/blog</link>
         <description>Domiko page/blog Blog</description>
         <lastBuildDate>Sun, 14 Dec 2025 14:20:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,13 +10,13 @@
         <language>en</language>
         <item>
             <title><![CDATA[Welcome — What I’ll Be Posting Here]]></title>
-            <link>https://your-docusaurus-site.example.com/page/blog/welcome</link>
-            <guid>https://your-docusaurus-site.example.com/page/blog/welcome</guid>
+            <link>https://your-docusaurus-site.example.com/blog/welcome</link>
+            <guid>https://your-docusaurus-site.example.com/blog/welcome</guid>
             <pubDate>Sun, 14 Dec 2025 14:20:19 GMT</pubDate>
             <description><![CDATA[Welcome! 👋]]></description>
             <content:encoded><![CDATA[<p>Welcome! 👋<br>
 <!-- -->I’m <strong>Dominik</strong> (aka <strong>Domiko7</strong> on GitHub), and this blog is where I’ll be sharing what I build, learn, and explore.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="-seismology">🌍 Seismology<a href="https://your-docusaurus-site.example.com/page/blog/welcome#-seismology" class="hash-link" aria-label="Direct link to 🌍 Seismology" title="Direct link to 🌍 Seismology" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="-seismology">🌍 Seismology<a href="https://your-docusaurus-site.example.com/blog/welcome#-seismology" class="hash-link" aria-label="Direct link to 🌍 Seismology" title="Direct link to 🌍 Seismology" translate="no">​</a></h2>
 <p>One of my main interests is <strong>seismology and earthquakes</strong>. I work with real-time seismic data, monitoring tools, and earthquake early-warning concepts.<br>
 <!-- -->Here, I’ll post things like:</p>
 <ul>
@@ -25,7 +25,7 @@
 <li class="">Visualizations and real-time feeds</li>
 <li class="">Experiments and ideas related to EEW systems</li>
 </ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="-technology--programming">💻 Technology &amp; Programming<a href="https://your-docusaurus-site.example.com/page/blog/welcome#-technology--programming" class="hash-link" aria-label="Direct link to 💻 Technology &amp; Programming" title="Direct link to 💻 Technology &amp; Programming" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="-technology--programming">💻 Technology &amp; Programming<a href="https://your-docusaurus-site.example.com/blog/welcome#-technology--programming" class="hash-link" aria-label="Direct link to 💻 Technology &amp; Programming" title="Direct link to 💻 Technology &amp; Programming" translate="no">​</a></h2>
 <p>Most of my work revolves around <strong>coding and tech projects</strong>, many of which are open source on GitHub. Expect posts about:</p>
 <ul>
 <li class="">Python projects and scripts</li>
@@ -33,7 +33,7 @@
 <li class="">Embedded systems (ESP32, Raspberry Pi, sensors)</li>
 <li class="">Lessons learned while building and breaking things</li>
 </ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="-analysis--project-breakdowns">🔍 Analysis &amp; Project Breakdowns<a href="https://your-docusaurus-site.example.com/page/blog/welcome#-analysis--project-breakdowns" class="hash-link" aria-label="Direct link to 🔍 Analysis &amp; Project Breakdowns" title="Direct link to 🔍 Analysis &amp; Project Breakdowns" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="-analysis--project-breakdowns">🔍 Analysis &amp; Project Breakdowns<a href="https://your-docusaurus-site.example.com/blog/welcome#-analysis--project-breakdowns" class="hash-link" aria-label="Direct link to 🔍 Analysis &amp; Project Breakdowns" title="Direct link to 🔍 Analysis &amp; Project Breakdowns" translate="no">​</a></h2>
 <p>I’ll also write <strong>analysis-style posts</strong>, where I break down:</p>
 <ul>
 <li class="">How a project works internally</li>
@@ -41,7 +41,7 @@
 <li class="">Performance, reliability, and improvements</li>
 <li class="">What went wrong (and how I fixed it)</li>
 </ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="-other-topics">📦 Other Topics<a href="https://your-docusaurus-site.example.com/page/blog/welcome#-other-topics" class="hash-link" aria-label="Direct link to 📦 Other Topics" title="Direct link to 📦 Other Topics" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="-other-topics">📦 Other Topics<a href="https://your-docusaurus-site.example.com/blog/welcome#-other-topics" class="hash-link" aria-label="Direct link to 📦 Other Topics" title="Direct link to 📦 Other Topics" translate="no">​</a></h2>
 <p>Sometimes I’ll post about things that don’t fit neatly into one category — aviation, experiments, random ideas, or updates on ongoing projects.</p>
 <hr>
 <p>This blog is mainly a <strong>logbook of learning and building</strong>.<br>

@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkdomiko_blog=globalThis.webpackChunkdomiko_blog||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome \u2014 What I\u2019ll Be Posting Here","permalink":"/page/blog/welcome","unlisted":false,"date":"2025-12-14T14:20:19.000Z"}]}')}}]);
