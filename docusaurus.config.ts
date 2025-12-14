@@ -11,8 +11,7 @@ const config: Config = {
     v4: true,
   },
 
-  url: 'https://your-docusaurus-site.example.com',
-  //baseUrl: '/page/',
+  url: 'https://page.domiko.dev',
   baseUrl: '/',
 
   organizationName: 'Domiko7',
