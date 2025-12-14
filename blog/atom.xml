@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://your-docusaurus-site.example.com/page/blog</id>
+    <title>Domiko page/blog Blog</title>
+    <updated>2025-12-14T14:20:19.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://your-docusaurus-site.example.com/page/blog"/>
+    <subtitle>Domiko page/blog Blog</subtitle>
+    <icon>https://your-docusaurus-site.example.com/page/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome — What I’ll Be Posting Here]]></title>
+        <id>https://your-docusaurus-site.example.com/page/blog/welcome</id>
+        <link href="https://your-docusaurus-site.example.com/page/blog/welcome"/>
+        <updated>2025-12-14T14:20:19.000Z</updated>
+        <summary type="html"><![CDATA[Welcome! 👋]]></summary>
+        <content type="html"><![CDATA[<p>Welcome! 👋<br>
+<!-- -->I’m <strong>Dominik</strong> (aka <strong>Domiko7</strong> on GitHub), and this blog is where I’ll be sharing what I build, learn, and explore.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="-seismology">🌍 Seismology<a href="https://your-docusaurus-site.example.com/page/blog/welcome#-seismology" class="hash-link" aria-label="Direct link to 🌍 Seismology" title="Direct link to 🌍 Seismology" translate="no">​</a></h2>
+<p>One of my main interests is <strong>seismology and earthquakes</strong>. I work with real-time seismic data, monitoring tools, and earthquake early-warning concepts.<br>
+<!-- -->Here, I’ll post things like:</p>
+<ul>
+<li class="">Seismic data analysis</li>
+<li class="">Earthquake monitoring projects</li>
+<li class="">Visualizations and real-time feeds</li>
+<li class="">Experiments and ideas related to EEW systems</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="-technology--programming">💻 Technology &amp; Programming<a href="https://your-docusaurus-site.example.com/page/blog/welcome#-technology--programming" class="hash-link" aria-label="Direct link to 💻 Technology &amp; Programming" title="Direct link to 💻 Technology &amp; Programming" translate="no">​</a></h2>
+<p>Most of my work revolves around <strong>coding and tech projects</strong>, many of which are open source on GitHub. Expect posts about:</p>
+<ul>
+<li class="">Python projects and scripts</li>
+<li class="">Real-time data pipelines</li>
+<li class="">Embedded systems (ESP32, Raspberry Pi, sensors)</li>
+<li class="">Lessons learned while building and breaking things</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="-analysis--project-breakdowns">🔍 Analysis &amp; Project Breakdowns<a href="https://your-docusaurus-site.example.com/page/blog/welcome#-analysis--project-breakdowns" class="hash-link" aria-label="Direct link to 🔍 Analysis &amp; Project Breakdowns" title="Direct link to 🔍 Analysis &amp; Project Breakdowns" translate="no">​</a></h2>
+<p>I’ll also write <strong>analysis-style posts</strong>, where I break down:</p>
+<ul>
+<li class="">How a project works internally</li>
+<li class="">Design decisions and tradeoffs</li>
+<li class="">Performance, reliability, and improvements</li>
+<li class="">What went wrong (and how I fixed it)</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="-other-topics">📦 Other Topics<a href="https://your-docusaurus-site.example.com/page/blog/welcome#-other-topics" class="hash-link" aria-label="Direct link to 📦 Other Topics" title="Direct link to 📦 Other Topics" translate="no">​</a></h2>
+<p>Sometimes I’ll post about things that don’t fit neatly into one category — aviation, experiments, random ideas, or updates on ongoing projects.</p>
+<hr>
+<p>This blog is mainly a <strong>logbook of learning and building</strong>.<br>
+<!-- -->If you’re into earthquakes, data, software, or just seeing how projects evolve over time — you’re in the right place.</p>
+<p>Thanks for stopping by 🙂</p>]]></content>
+        <author>
+            <name>Dominik S.</name>
+            <uri>https://github.com/Domiko7</uri>
+        </author>
+        <category label="Seismology" term="Seismology"/>
+        <category label="Tech" term="Tech"/>
+        <category label="Other" term="Other"/>
+        <category label="Analysis" term="Analysis"/>
+    </entry>
+</feed>
